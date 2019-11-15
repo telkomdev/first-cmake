@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuriyanto/Documents/random/first-cmake/src/Hello.h
+string
+-
+
+/Users/wuriyanto/Documents/random/first-cmake/src/Main.cc
+iostream
+-
+string
+-
+Hello.h
+/Users/wuriyanto/Documents/random/first-cmake/src/Hello.h
+

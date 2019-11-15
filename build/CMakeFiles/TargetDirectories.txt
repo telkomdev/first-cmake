@@ -1,0 +1,4 @@
+/Users/wuriyanto/Documents/random/first-cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/wuriyanto/Documents/random/first-cmake/build/CMakeFiles/edit_cache.dir
+/Users/wuriyanto/Documents/random/first-cmake/build/CMakeFiles/first-cmake.dir
+/Users/wuriyanto/Documents/random/first-cmake/build/CMakeFiles/MyLib.dir
